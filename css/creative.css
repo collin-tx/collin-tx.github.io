@@ -10749,3 +10749,13 @@
     width: 100px;
     border-radius: 50%;
   }
+
+  @media(max-width: 500px){
+      .portfolio-box {
+          border-bottom: 1px solid grey;
+      }
+
+      .contact-link {
+          margin-bottom: 30px;
+      }
+  }
