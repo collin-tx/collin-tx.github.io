@@ -1,2 +1,1 @@
-# collin-tx.github.io
-setting up GitHub pages for demoing a little CSS project
+# this is the readme
