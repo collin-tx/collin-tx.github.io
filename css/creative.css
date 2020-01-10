@@ -10743,6 +10743,8 @@
   #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
     opacity: 1;
   }
+
+  /* customs */
   
   #cms-pic {
     height: 100px;
